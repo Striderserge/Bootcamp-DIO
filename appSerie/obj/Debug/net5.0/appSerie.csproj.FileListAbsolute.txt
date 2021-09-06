@@ -1,0 +1,16 @@
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.csproj.AssemblyReference.cache
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.AssemblyInfoInputs.cache
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.AssemblyInfo.cs
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.csproj.CoreCompileInputs.cache
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.exe
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.deps.json
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.runtimeconfig.json
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.runtimeconfig.dev.json
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.dll
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\ref\appSerie.dll
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\bin\Debug\net5.0\appSerie.pdb
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.dll
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\ref\appSerie.dll
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.pdb
+C:\Users\Deva\Documents\Atividades\Bootcamp-DIO\appSerie\obj\Debug\net5.0\appSerie.genruntimeconfig.cache
